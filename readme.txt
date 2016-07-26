@@ -12,6 +12,7 @@ Creating a new branch is quick!
 Creating a new branch is quick and simple.
 
 Creating a new branch by manager. 
+
 Creating a new branch by manager. 
 
 this is a bug
